@@ -30,7 +30,7 @@ Every existing SIP/goal calculator looks like a government form. Sliders, a numb
 
 ---
 
-## Live Demo
+## Live Application
 
 👉 **[https://goalfin-olive.vercel.app](https://goalfin-olive.vercel.app)**
 
