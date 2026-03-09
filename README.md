@@ -6,7 +6,7 @@
 ![HDFC Mutual Fund](https://img.shields.io/badge/Co--Sponsored%20by-HDFC%20Mutual%20Fund-da3832?style=for-the-badge)
 ![Investor Education](https://img.shields.io/badge/Initiative-Investor%20Education%20%26%20Awareness-919090?style=for-the-badge)
 
-**[🔗 Live Demo](https://lifegoals-yourname.vercel.app)** &nbsp;·&nbsp; **[📹 Demo Video](#)** &nbsp;·&nbsp; **[📋 Judges Guide](#for-judges)**
+**[🔗 Live Demo](https://goalfin-olive.vercel.app)** &nbsp;·&nbsp; **[📹 Demo Video](#)** &nbsp;·&nbsp; **[📋 Judges Guide](#for-judges)**
 
 ![Accessibility](https://img.shields.io/badge/Lighthouse%20Accessibility-100%2F100-00c853?style=flat-square&logo=google-chrome)
 ![Best Practices](https://img.shields.io/badge/Best%20Practices-96%2F100-00c853?style=flat-square&logo=google-chrome)
@@ -32,7 +32,7 @@ Every existing SIP/goal calculator looks like a government form. Sliders, a numb
 
 ## Live Demo
 
-👉 **[https://lifegoals-yourname.vercel.app](https://lifegoals-yourname.vercel.app)**
+👉 **[https://goalfin-olive.vercel.app](https://goalfin-olive.vercel.app)**
 
 > No setup required. Opens instantly. Works on all devices.
 
